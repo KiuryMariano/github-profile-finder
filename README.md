@@ -31,13 +31,13 @@ Você pode visualizar as informações de dois jeitos: utilizando **TailwindCSS*
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/KiuryMariano/github-profile-finder.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd seu-repositorio
+cd github-profile-finder/
 ```
 
 ### 3. Instale as dependências
