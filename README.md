@@ -31,13 +31,13 @@ Você pode visualizar as informações de dois jeitos: utilizando **TailwindCSS*
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/KiuryMariano/github-profile-finder.git
+git clone https://github.com/KiuryMariano/github-profile-finder-react.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd github-profile-finder/
+cd github-profile-finder-react/
 ```
 
 ### 3. Instale as dependências
